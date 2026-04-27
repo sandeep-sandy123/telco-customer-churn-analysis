@@ -26,7 +26,7 @@ actionable recommendations to reduce customer attrition.
 - ChatGPT — AI-generated business recommendations
 
 ## Dashboard Pages
-1. Executive Summary — KPIs, overall churn rate, contract analysis
+1.[ Executive Summary — KPIs, overall churn rate, contract analysis](https://github.com/sandeep-sandy123/telco-customer-churn-analysis/blob/main/Executive%20Summary)
 2. Risk Segmentation — Security, payment method, tenure analysis
 3. AI Recommendations — ChatGPT-generated retention strategies
 
