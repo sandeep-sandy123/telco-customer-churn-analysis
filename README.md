@@ -28,7 +28,7 @@ actionable recommendations to reduce customer attrition.
 ## Dashboard Pages
 1.[Executive Summary — KPIs, overall churn rate, contract analysis](https://github.com/sandeep-sandy123/telco-customer-churn-analysis/blob/main/Executive%20Summary)
 2. [Risk Segmentation — Security, payment method, tenure analysis](https://github.com/sandeep-sandy123/telco-customer-churn-analysis/blob/main/Risk%20Segmentation)
-3. AI Recommendations — ChatGPT-generated retention strategies
+3. [AI Recommendations — ChatGPT-generated retention strategies](https://github.com/sandeep-sandy123/telco-customer-churn-analysis/blob/main/Recommendations)
 
 ## Files
 - [Telco_Cleaned.csv — cleaned dataset (7,043 rows)](https://github.com/sandeep-sandy123/telco-customer-churn-analysis/blob/main/Telco_Cleaned.csv)
