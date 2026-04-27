@@ -31,7 +31,7 @@ actionable recommendations to reduce customer attrition.
 3. AI Recommendations — ChatGPT-generated retention strategies
 
 ## Files
-- Telco_Cleaned.csv — cleaned dataset (7,043 rows)
+- [Telco_Cleaned.csv — cleaned dataset (7,043 rows)](https://github.com/sandeep-sandy123/telco-customer-churn-analysis/blob/main/Telco_Cleaned.csv)
 - Telco_Churn_Analysis.sql — all SQL queries used
 - Churn_Analysis.ipynb — Python EDA notebook
 - Dashboard screenshots — all 3 Power BI pages
