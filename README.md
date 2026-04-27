@@ -32,6 +32,6 @@ actionable recommendations to reduce customer attrition.
 
 ## Files
 - [Telco_Cleaned.csv — cleaned dataset (7,043 rows)](https://github.com/sandeep-sandy123/telco-customer-churn-analysis/blob/main/Telco_Cleaned.csv)
-- Telco_Churn_Analysis.sql — all SQL queries used
-- Churn_Analysis.ipynb — Python EDA notebook
+- [Telco_Churn_Analysis.sql — all SQL queries used](https://github.com/sandeep-sandy123/telco-customer-churn-analysis/blob/main/Telco_Churn_Analysis.sql)
+- [Churn_Analysis.ipynb — Python EDA notebook](https://github.com/sandeep-sandy123/telco-customer-churn-analysis/blob/main/Churn_Analysis.ipynb)
 - Dashboard screenshots — all 3 Power BI pages
